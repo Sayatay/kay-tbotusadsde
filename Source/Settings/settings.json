@@ -1,0 +1,30 @@
+{
+  "botToken": "",
+  "botOwner": "993839549031649340",
+  "botPrefix": ".",
+  "botVoiceChannel": "994910087917346876",
+  "botActivityName": "A Q U A",
+  "botActivityType": "PLAYING",
+  "botStatus": "online",
+
+  "mongoConnectionLink": "mongodb+srv://aquapub02:aquapub02@cluster0.aangud2.mongodb.net/?retryWrites=true&w=majority",
+
+  "welcomeChannel": "994910093554495538",
+  "rulesChannel": "994910101951488093",
+  "Suspicious": "994948604961767485",
+  "Unregistered": "994910030757371944",
+
+
+  "FamilyRole": "994910019415969852",
+  "Tag": "✧",
+  "Untag": "✧",
+
+  "RegisterStaff": ["994909987333754942"],
+  "ManRole": "994910028978978838",
+  "WomanRole": "994910025980055614",
+  "BoosterRole": "994720824651173979",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
